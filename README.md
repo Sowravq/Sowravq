@@ -1,6 +1,6 @@
  
   
-<p align="center">
+<p  >
    
   <img src="https://i.ibb.co/qkf0hmn/Infographic-Our-Advance-Contact-Us-Ending.png"   alt="accessibility text">
 </p>
