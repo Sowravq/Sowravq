@@ -34,13 +34,16 @@
 
  
 
- <div align="center">
+ <pre>
+
+   <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sowravq&show_icons=true&locale=en&layout=compact" alt="sowravq" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=sowravq&show_icons=true&locale=en"  alt="sowravq"  />
     
   </div>
 </div>
+ </pre>
 
 
  
