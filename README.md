@@ -8,13 +8,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowravq&label=Profile%20views&color=0e75b6&style=flat" alt="sowravq" /> </p>
 
  
-- 🌱 I’m currently learning **Web Development**
+ <div align="center" >
+   <h2>
+    A passionate frontend developer from Bangladesh
+   </h2>
+ <div>
+ 
+🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **React**
+ 💬 Ask me about **React**
 
-- 📫 How to reach me **sowravkumar0@gmail.com**
+ 📫 How to reach me **sowravkumar0@gmail.com**
 
-- ⚡ Fun fact **I think coding is very interesting,if you can get into it..**
+ ⚡ Fun fact **I think coding is very interesting,if you can get into it..**
+ 
+ </div>
+  
+ </div>
   
 
  <pre>
