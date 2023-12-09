@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowravq&label=Profile%20views&color=0e75b6&style=flat" alt="sowravq" /> </p>
 
- <div>
-  - 🌱 I’m currently learning **Web Development**
+ 
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **sowravkumar0@gmail.com**
 
 - ⚡ Fun fact **I think coding is very interesting,if you can get into it..**
- </div>
+  
 
  <pre>
 
