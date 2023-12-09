@@ -22,7 +22,7 @@
 
  ⚡ Fun fact **I think coding is very interesting,if you can get into it..**
 
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/sowrav-kumar-95b5b32a0/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://i.ibb.co/Xt0KY0q/1637655738-linkedin-101-hero2x.webp)" alt="https://www.linkedin.com/in/sowrav-kumar-95b5b32a0/" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/sowrav-kumar-95b5b32a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sowrav-kumar-95b5b32a0/" height="30" width="40" /></a>
  
  </div>
   
